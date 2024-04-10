@@ -1,0 +1,41 @@
+* {
+    padding: 0%;
+    margin: 0%;
+}
+
+.div1 {
+    border: 2px solid;
+    margin: 2px;
+    padding: 10px;
+    background-color: rgb(165, 102, 8);
+    text-align: justify;
+    border: 4mm ridge rgba(211, 220, 50, .6);
+    
+  }
+
+  .div2 {
+    border: 2px solid;
+    margin: 2px;
+    border-width: 50px;
+    padding: 10px;
+    background-color: rgb(165, 102, 8);
+    text-align: justify;
+  }
+  
+  .div3 {
+    border: 2px solid;
+    margin: 2px;
+    border-width: 50px;
+    padding: 10px;
+    background-color: rgb(8, 165, 31);
+    text-align: justify;
+  }
+
+  .div4 {
+    border: 2px solid;
+    margin: 2px;
+    border-width: 50px;
+    padding: 10px;
+    background-color: rgb(165, 102, 8);
+    text-align: justify;
+  }
