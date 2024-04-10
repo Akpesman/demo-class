@@ -1,0 +1,19 @@
+.container {
+    border: 1px solid rgb(10, 9, 9);
+    background: black;
+}
+
+.row {
+    border: 1px solid rgb(0, 30, 255);
+    background:rgb(6, 7, 6);
+}
+
+.col {
+    background:rgb(9, 9, 0);
+}
+
+
+
+#button1{
+    style="background-color: rgb(101, 244, 29); border-style: outset; border-radius: 10px;">
+}
